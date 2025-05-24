@@ -25,12 +25,6 @@ Please note that Sukoon is an ongoing project. Features and the technology stack
 
 **APIs:** JokeAPI, MemeGen API
 
-## Authors
-
-- Mansi Rawat [@mansir04](https://github.com/mansir04)
-- Shaheera Fatima [@shaheera02](https://github.com/shaheera02)
-- Aayushi Kushwaha [@Aayushi1111](https://github.com/Aayushi1111)
-- Ananya Shanker [@AnanyaShanker](https://github.com/AnanyaShanker)
 
 ## Run Locally
 
